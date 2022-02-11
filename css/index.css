@@ -101,3 +101,10 @@ body {
     width:240px ;
     height:200px ;
 }
+.contenedor { width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    
+
+}
